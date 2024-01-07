@@ -1,0 +1,3 @@
+Halo, Perkenalkan Saya AradanBot, Saya Dikembangkan oleh Aslan, 
+Untuk Saat ini saya dibuat hanya untuk membuka aplikasi desktop secara otomatis dengan suara, 
+aplikasi yang dapat dibuka seperti visual studio code
